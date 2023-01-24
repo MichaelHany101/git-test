@@ -11,5 +11,6 @@ class HelloITI
     func printing()
     {
         print("Hello ITI")
+        print("Hello ITI")
     }
 }
