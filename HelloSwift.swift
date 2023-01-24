@@ -11,5 +11,6 @@ class HelloWorld
     func printing()
     {
         print("Hello World")
+        print("Hello World")
     }
 }
